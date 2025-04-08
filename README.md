@@ -1,7 +1,7 @@
 # Tombola
 **Demo Applications**
 https://4passion.net/gam/bingo.php
-https://4passion.net/gam/tombola.php
+https://4passion.net/gam/tom.php
 **Configuration File**
 The configuration files have the following syntax
 
